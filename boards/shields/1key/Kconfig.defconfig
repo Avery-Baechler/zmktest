@@ -3,4 +3,8 @@ if 1KEY
 config ZMK_KEYBOARD_NAME
     default "Test"
 
+config BUILD_OUTPUT_UF2
+    default y
+
+
 endif 
