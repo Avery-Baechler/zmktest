@@ -1,0 +1,6 @@
+if 1KEY
+
+config ZMK_KEYBOARD_NAME
+    default "Test"
+
+end if 
